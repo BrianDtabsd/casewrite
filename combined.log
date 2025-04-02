@@ -1,0 +1,13 @@
+{"level":"info","message":"CaseWrite server running on port 3000","timestamp":"2025-03-31T06:03:08.883Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-03-31T06:03:08.885Z"}
+{"level":"info","message":"Integration mode: Enabled","timestamp":"2025-03-31T06:03:08.885Z"}
+{"level":"info","message":"Standalone mode: Enabled","timestamp":"2025-03-31T06:03:08.885Z"}
+{"level":"info","message":"GET /","timestamp":"2025-03-31T06:03:50.639Z"}
+{"level":"info","message":"GET /","timestamp":"2025-03-31T06:04:08.382Z"}
+{"level":"info","message":"GET /","timestamp":"2025-03-31T06:06:03.466Z"}
+{"level":"info","message":"GET /manifest.json","timestamp":"2025-03-31T06:06:03.497Z"}
+{"level":"info","message":"GET /favicon.ico","timestamp":"2025-03-31T06:06:03.500Z"}
+{"level":"info","message":"GET /static/js/bundle.js","timestamp":"2025-03-31T06:06:03.501Z"}
+{"level":"info","message":"GET /","timestamp":"2025-03-31T08:18:07.026Z"}
+{"level":"info","message":"GET /","timestamp":"2025-03-31T08:53:47.344Z"}
+{"level":"info","message":"GET /","timestamp":"2025-03-31T08:58:56.897Z"}
