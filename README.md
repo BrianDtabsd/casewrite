@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CaseWrite
 
 CaseWrite is an AI-powered document and letter assistant designed to work with case management systems. It can function both as a standalone product and as an integrated component of the HR Case Management Software.
@@ -93,3 +94,7 @@ API documentation is available at `/api/docs` when the server is running.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
+# casewrite
+AI powered document and template manager
+>>>>>>> origin/main
