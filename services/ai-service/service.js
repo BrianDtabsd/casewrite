@@ -148,7 +148,7 @@ class AIService {
         let systemMessage = `You are an expert in creating professional ${documentType} documents.`;
         
         if (templateId) {
-          systemMessage += ` Use the specified template structure and formatting.`;
+          systemMessage += ' Use the specified template structure and formatting.';
         }
 
         // Prepare user message with context
@@ -208,7 +208,7 @@ class AIService {
     try {
       if (this.provider === 'openai') {
         // Prepare system message based on analysis type
-        let systemMessage = `You are an expert in ${analysisType} analysis.`;
+        const systemMessage = `You are an expert in ${analysisType} analysis.`;
         
         // Prepare user message with text to analyze
         const userMessage = `Please analyze the following text using ${analysisType} analysis:\n\n${text}`;
